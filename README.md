@@ -3,4 +3,4 @@ LeetCode practises
 
 Список задач
 
-- [Задача №1](./src/leetcode/services/task/readme.md)
+- [Задача №1](/../../src/leetcode/services/task/README.md)
